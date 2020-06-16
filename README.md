@@ -2,7 +2,7 @@
 
 # 本项目提供了SSM的CRUD简单整合，可以当做你第一次CRUD的简单项目
 
-## 如果你下载本项目成功，你将会看到以下界面（若代码出现BUG或者项目搭建不成功，可发送邮件与我交流--lookliker@qq.com）：
+## 如果你下载本项目成功，你将会看到以下界面（若代码出现BUG或者项目搭建不成功，可发送邮件与我交流lookliker@qq.com）：
 ### 登录界面
 <img src="https://github.com/lookliker/SSM_Simple_Practice/blob/master/images/login.png" width=450 />
 
