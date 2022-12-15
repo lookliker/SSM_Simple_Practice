@@ -12,7 +12,7 @@
 	<properties>
 		<project.builder.sourceEncoding>utf-8</project.builder.sourceEncoding>
 		<mybatis.version>3.4.5</mybatis.version>
-		<spring.version>5.0.2.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
